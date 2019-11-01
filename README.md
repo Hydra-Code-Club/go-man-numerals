@@ -9,7 +9,7 @@ Current mission: Roman Numeral system.
 
 ### 2019-10-18
 
-- Recording (coming soon)
+- [Recording](https://youtu.be/jfhzjDJNBe0)
 - [Code after session (b54a555)](https://github.com/Hydra-Code-Club/go-man-numerals/tree/progress_1)
 - Lessons
   - no statements outside of global
